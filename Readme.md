@@ -2,7 +2,11 @@
 
 ## Project Overview
 
-This project demonstrates the implementation of an enterprise network using Cisco Packet Tracer.
+This project demonstrates the design and implementation of a secure, multi-site enterprise network using Cisco Packet Tracer. The network simulates a real-world organizational infrastructure by connecting a Head Office and a Branch Office through dynamic routing.
+
+The implementation includes VLAN-based network segmentation, Inter-VLAN Routing using Router-on-a-Stick, DHCP for automatic IP address allocation, and Extended Access Control Lists (ACLs) to enforce secure communication between departments. OSPF dynamic routing was configured to establish connectivity between multiple routers, enabling efficient route exchange and seamless communication across different network segments.
+
+The project also involved configuring trunk links, verifying OSPF neighbor relationships, testing end-to-end connectivity, and troubleshooting routing and switching issues to ensure reliable network performance
 
 ### Features
 
